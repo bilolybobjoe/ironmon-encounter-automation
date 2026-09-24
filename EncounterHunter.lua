@@ -1,7 +1,7 @@
 local function EncounterHunter()
 	-- Define descriptive attributes of the custom extension that are displayed on the Tracker settings
 	local self = {}
-	self.version = "1.2"
+	self.version = "1.3"
 	self.name = "Encounter Hunter"
 	self.author = "jciii91"
 	self.description = "Triggers encounters until the desired Pokémon is found. Users can set what Pokémon and level they are hunting for. Extension ceases automatic search once it is complete."
