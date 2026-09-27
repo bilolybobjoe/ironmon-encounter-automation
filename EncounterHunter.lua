@@ -3,9 +3,9 @@ local function EncounterHunter()
 	local self = {}
 	self.version = "1.3"
 	self.name = "Encounter Hunter"
-	self.author = "jciii91"
+	self.author = "bilolybobjoe"
 	self.description = "Triggers encounters until the desired Pokémon is found. Users can set what Pokémon and level they are hunting for. Extension ceases automatic search once it is complete."
-	self.github = "jciii91/ironmon-encounter-automation"
+	self.github = "bilolybobjoe/ironmon-encounter-automation"
 	self.url = string.format("https://github.com/%s", self.github or "")
 
 	-- EncounterHunterScreen locals --
